@@ -1,1 +1,1 @@
-Boilerplate===========# Summary* Java EE 7* JDK 1.8* EJB 3.1* JSF 2.2* JPA 2.1# Description
+JavaEE Boilerplate==================Boilerplate project with a JavaEE structure implementing a simple HelloWorld application.# Summary* Java EE 7* JDK 1.8* EJB 3.1* JSF 2.2* JPA 2.1# Compilation`mvn clean install`
